@@ -1,0 +1,7 @@
+{
+  "name": "MedScribe AI",
+  "description": "A sophisticated clinical assistant for medical students to record, transcribe, and generate structured SOAP reports and summaries from patient-student interactions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
